@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
  * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
@@ -13,7 +12,6 @@
  * @since     0.2.9
  * @license   https://opensource.org/licenses/mit-license.php MIT License
  */
-
 namespace App\Controller;
 
 use Cake\Controller\Controller;
@@ -27,7 +25,8 @@ use Cake\Event\Event;
  *
  * @link https://book.cakephp.org/3.0/en/controllers.html#the-app-controller
  */
-class AppController extends Controller {
+class AppController extends Controller
+{
 
     /**
      * Initialization hook method.
@@ -38,29 +37,9 @@ class AppController extends Controller {
      *
      * @return void
      */
-    public function initialize() {
+    public function initialize()
+    {
         parent::initialize();
-
-        $this->loadComponent('Auth', [
-            'authenticate' => [
-                'Form' => [
-                    'fields' => [
-                        'username' => 'username',
-                        'password' => 'password'
-                    ]
-                ]
-            ],
-            'loginRedirect' => [
-                'controller' => 'Users',
-                'action' => 'index'
-            ],
-            'logoutRedirect' => [
-                'controller' => 'Users',
-                'action' => 'login'
-            ],
-            'authError' => __('You are not authorized to access that location.'),
-            'storage' => 'Session'
-        ]);
 
         $this->loadComponent('RequestHandler', [
             'enableBeforeRedirect' => false,
@@ -73,10 +52,4 @@ class AppController extends Controller {
          */
         //$this->loadComponent('Security');
     }
-
-    public function beforeRender(Event $event) {
-        parent::beforeRender($event);
-        $this->set('loguser', $this->request->getSession()->read('Auth.User'));
-    }
-
 }
