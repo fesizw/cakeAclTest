@@ -45,17 +45,17 @@ class AppController extends Controller {
             'authenticate' => [
                 'Form' => [
                     'fields' => [
-                        'username' => 'login',
-                        'password' => 'senha'
+                        'username' => 'username',
+                        'password' => 'password'
                     ]
                 ]
             ],
             'loginRedirect' => [
-                'controller' => 'Usuarios',
+                'controller' => 'Users',
                 'action' => 'index'
             ],
             'logoutRedirect' => [
-                'controller' => 'Usuarios',
+                'controller' => 'Users',
                 'action' => 'login'
             ],
             'authError' => __('You are not authorized to access that location.'),
@@ -66,8 +66,6 @@ class AppController extends Controller {
             'enableBeforeRedirect' => false,
         ]);
         $this->loadComponent('Flash');
-
-        debug($this->Auth);
 
         /*
          * Enable the following component for recommended CakePHP security settings.
