@@ -4,21 +4,6 @@ if (empty($loguser)) {
 }
 //$DateCreatedFormated = $loguser['created']->i18nFormat();
 // debug($loguser);
-//
-//`capacidade_civils`
-//`clientes`
-//`emails`
-//`empresas`
-//`enderecos`
-//`estado_civils`
-//`grupos``profissaos`
-//`representantes`
-//`sexos`
-//`telefones`
-//`tipo_clientes`
-//`tipo_enderecos`
-//`unidades`
-//`users`
 ?>
 <ul class="sidebar-menu">
     <li class="header"><?= __('MAIN NAVIGATION'); ?></li>
@@ -71,7 +56,6 @@ if (empty($loguser)) {
             <li><a href="#"><i class="fa fa-circle-o"></i> Monitorar Atendimento</a></li>
             <li><a href="#"><i class="fa fa-circle-o"></i> Chamada de Atendimento</a></li>
             <li><a href="#"><i class="fa fa-circle-o"></i> Atendimento DEJUR Sup.</a></li>
-
 
         </ul>
     </li>
@@ -134,7 +118,7 @@ if (empty($loguser)) {
     </li>
 
     <?php
-    if ($loguser['role_id'] == 1) :
+    if ($loguser['grupo_id'] == 1) :
         ?>
         <li><a href="<?php echo $this->Url->build('/pages/debug'); ?>"><i class="fa fa-bug"></i> <span><?= __('Debug') ?></span></a></li>
 

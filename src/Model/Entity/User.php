@@ -56,8 +56,16 @@ class User extends Entity {
         'senha'
     ];
 
+    protected function _setPassword($password) {
+        if (strlen($password) > 0) {
+            return (new DefaultPasswordHasher)->hash($password);
+        }
+    }
+
     protected function _setSenha($password) {
-        return (new DefaultPasswordHasher)->hash($password);
+        if (strlen($password) > 0) {
+            return (new DefaultPasswordHasher)->hash($password);
+        }
     }
 
 }

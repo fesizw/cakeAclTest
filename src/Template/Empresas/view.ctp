@@ -100,11 +100,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'CapacidadeCivils', 'action' => 'view', $capacidadeCivils->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'CapacidadeCivils', 'action' => 'view', $capacidadeCivils->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'CapacidadeCivils', 'action' => 'edit', $capacidadeCivils->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'CapacidadeCivils', 'action' => 'edit', $capacidadeCivils->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'CapacidadeCivils', 'action' => 'delete', $capacidadeCivils->id], ['confirm' => __('Are you sure you want to delete # {0}?', $capacidadeCivils->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'CapacidadeCivils', 'action' => 'delete', $capacidadeCivils->id], ['confirm' => __('Are you sure you want to delete # {0}?', $capacidadeCivils->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -361,11 +361,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Clientes', 'action' => 'view', $clientes->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Clientes', 'action' => 'view', $clientes->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Clientes', 'action' => 'edit', $clientes->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Clientes', 'action' => 'edit', $clientes->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Clientes', 'action' => 'delete', $clientes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $clientes->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Clientes', 'action' => 'delete', $clientes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $clientes->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -469,11 +469,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Emails', 'action' => 'view', $emails->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Emails', 'action' => 'view', $emails->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Emails', 'action' => 'edit', $emails->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Emails', 'action' => 'edit', $emails->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Emails', 'action' => 'delete', $emails->id], ['confirm' => __('Are you sure you want to delete # {0}?', $emails->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Emails', 'action' => 'delete', $emails->id], ['confirm' => __('Are you sure you want to delete # {0}?', $emails->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -649,11 +649,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Enderecos', 'action' => 'view', $enderecos->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Enderecos', 'action' => 'view', $enderecos->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Enderecos', 'action' => 'edit', $enderecos->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Enderecos', 'action' => 'edit', $enderecos->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Enderecos', 'action' => 'delete', $enderecos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $enderecos->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Enderecos', 'action' => 'delete', $enderecos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $enderecos->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -721,11 +721,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'EstadoCivils', 'action' => 'view', $estadoCivils->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'EstadoCivils', 'action' => 'view', $estadoCivils->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'EstadoCivils', 'action' => 'edit', $estadoCivils->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'EstadoCivils', 'action' => 'edit', $estadoCivils->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'EstadoCivils', 'action' => 'delete', $estadoCivils->id], ['confirm' => __('Are you sure you want to delete # {0}?', $estadoCivils->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'EstadoCivils', 'action' => 'delete', $estadoCivils->id], ['confirm' => __('Are you sure you want to delete # {0}?', $estadoCivils->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -793,11 +793,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Grupos', 'action' => 'view', $grupos->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Grupos', 'action' => 'view', $grupos->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Grupos', 'action' => 'edit', $grupos->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Grupos', 'action' => 'edit', $grupos->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Grupos', 'action' => 'delete', $grupos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $grupos->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Grupos', 'action' => 'delete', $grupos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $grupos->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -865,11 +865,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Profissaos', 'action' => 'view', $profissaos->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Profissaos', 'action' => 'view', $profissaos->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Profissaos', 'action' => 'edit', $profissaos->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Profissaos', 'action' => 'edit', $profissaos->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Profissaos', 'action' => 'delete', $profissaos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $profissaos->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Profissaos', 'action' => 'delete', $profissaos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $profissaos->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -937,11 +937,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Sexos', 'action' => 'view', $sexos->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Sexos', 'action' => 'view', $sexos->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Sexos', 'action' => 'edit', $sexos->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Sexos', 'action' => 'edit', $sexos->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Sexos', 'action' => 'delete', $sexos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $sexos->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Sexos', 'action' => 'delete', $sexos->id], ['confirm' => __('Are you sure you want to delete # {0}?', $sexos->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -1054,11 +1054,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Telefones', 'action' => 'view', $telefones->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Telefones', 'action' => 'view', $telefones->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Telefones', 'action' => 'edit', $telefones->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Telefones', 'action' => 'edit', $telefones->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Telefones', 'action' => 'delete', $telefones->id], ['confirm' => __('Are you sure you want to delete # {0}?', $telefones->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Telefones', 'action' => 'delete', $telefones->id], ['confirm' => __('Are you sure you want to delete # {0}?', $telefones->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -1126,11 +1126,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'TipoClientes', 'action' => 'view', $tipoClientes->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'TipoClientes', 'action' => 'view', $tipoClientes->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'TipoClientes', 'action' => 'edit', $tipoClientes->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'TipoClientes', 'action' => 'edit', $tipoClientes->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'TipoClientes', 'action' => 'delete', $tipoClientes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $tipoClientes->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'TipoClientes', 'action' => 'delete', $tipoClientes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $tipoClientes->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -1198,11 +1198,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Unidades', 'action' => 'view', $unidades->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Unidades', 'action' => 'view', $unidades->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Unidades', 'action' => 'edit', $unidades->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Unidades', 'action' => 'edit', $unidades->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Unidades', 'action' => 'delete', $unidades->id], ['confirm' => __('Are you sure you want to delete # {0}?', $unidades->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Unidades', 'action' => 'delete', $unidades->id], ['confirm' => __('Are you sure you want to delete # {0}?', $unidades->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>
@@ -1315,11 +1315,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Users', 'action' => 'view', $users->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Users', 'action' => 'view', $users->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Users', 'action' => 'edit', $users->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Users', 'action' => 'edit', $users->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Users', 'action' => 'delete', $users->id], ['confirm' => __('Are you sure you want to delete # {0}?', $users->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Users', 'action' => 'delete', $users->id], ['confirm' => __('Are you sure you want to delete # {0}?', $users->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

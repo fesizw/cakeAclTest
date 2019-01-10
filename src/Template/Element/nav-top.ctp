@@ -203,36 +203,36 @@
             <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                     <?php
-                    #$DateCreatedFormated = $loguser['created']->i18nFormat();
-                    $userImg = 'files' . DS . 'Users' . DS . 'photo' . DS . $loguser['photo'];
-                    $thumbUserImg = DS . 'files' . DS . 'Users' . DS . 'photo' . DS . 'th-' . $loguser['photo'];
+                    $DateCreatedFormated = $loguser['created']->i18nFormat();
+                    $userImg = 'files' . DS . 'Users' . DS . 'foto' . DS . $loguser['foto'];
+                    $thumbUserImg = DS . 'files' . DS . 'Users' . DS . 'foto' . DS . 'th-' . $loguser['foto'];
                     // $HEAD_hash = file_get_contents(APP . '.git/refs/heads/master');
                     $photo = new Cake\Filesystem\File($userImg);
                     $userImg = DS . $userImg;
-                    if (empty($loguser['photo']) OR ! $photo->exists()) {
+                    if (empty($loguser['foto']) OR ! $photo->exists()) {
                         echo $this->Html->image('user_icon.svg', ['class' => 'user-image', 'alt' => 'User Image', 'fullBase' => true]);
                     } else {
                         echo $this->Html->image(
                                 $thumbUserImg, [
-                            'alt' => $loguser['user_name'],
+                            'alt' => $loguser['nome'],
                             'class' => 'user-image',
                             'fullBase' => true
                                 ]
                         );
                     }
                     ?>					
-                    <span class="hidden-xs"><?= $loguser['user_name'] ?></span>
+                    <span class="hidden-xs"><?= $loguser['nome'] ?></span>
                 </a>
                 <ul class="dropdown-menu">
                     <!-- User image -->
                     <li class="user-header">
                         <?php
-                        if (empty($loguser['photo']) or ! file_exists(WWW_ROOT . $userImg)) {
+                        if (empty($loguser['foto']) or ! file_exists(WWW_ROOT . $userImg)) {
                             echo $this->Html->image('user_icon.svg', ['class' => 'img-circle', 'alt' => 'User Image', 'fullBase' => true]);
                         } else {
                             echo $this->Html->image(
                                     $userImg, [
-                                'alt' => $loguser['user_name'],
+                                'alt' => $loguser['nome'],
                                 'class' => 'img-circle',
                                 'style' => 'object-fit: cover;',
                                 'fullBase' => true
@@ -241,7 +241,7 @@
                         }
                         ?>
                         <p>
-                            <?= $loguser['user_name'] ?>
+                            <?= $loguser['nome'] ?>
                             <small>
                                 <?= __('Member') ?> <?= __('since') ?> <?= $DateCreatedFormated ?>
                                 <!--Nov. 2012-->

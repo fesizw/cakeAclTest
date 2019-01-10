@@ -2,7 +2,7 @@
 <section class="content-header">
   <h1>
     Modules
-    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs']) ?></div>
+    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs btn-flat']) ?></div>
   </h1>
 </section>
 
@@ -40,9 +40,9 @@
                 <td><?= $this->Number->format($module->id) ?></td>
                 <td><?= h($module->module_name) ?></td>
                 <td class="actions" style="white-space:nowrap">
-                  <?= $this->Html->link(__('View'), ['action' => 'view', $module->id], ['class'=>'btn btn-info btn-xs']) ?>
-                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $module->id], ['class'=>'btn btn-warning btn-xs']) ?>
-                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $module->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs']) ?>
+                  <?= $this->Html->link(__('View'), ['action' => 'view', $module->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
+                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $module->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
+                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $module->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>
                 </td>
               </tr>
             <?php endforeach; ?>

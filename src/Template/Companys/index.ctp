@@ -17,8 +17,8 @@
                     <h3 class="box-title"><?= __('List of') ?> <?php echo __('Companys'); ?></h3>
                 </div>
                 <!-- /.box-header -->
-                <div class="box-body">
-                    <table style="width:100%;" id="table_data" class="table table-bordered table-striped">
+                <div class="box-body table-responsive no-padding">
+                    <table style="width:100%;" id="table_data" class="display nowrap table table-bordered table-striped">
                         <thead>
                             <tr>
                                 <th class="no-sort">order</th>

@@ -44,6 +44,49 @@ class UsersTable extends Table {
         $this->setPrimaryKey('id');
 
         $this->addBehavior('Timestamp');
+        $this->addBehavior('Josegonzalez/Upload.Upload', [
+            'foto' => [
+                'nameCallback' => function ($table, $entity, $data, $field, $settings) {
+                    // Retorna o nome do arquivo criptografado em MD5 já com extensão
+                    return md5($data['name'] . $entity->login) . '.' . pathinfo($data['name'], PATHINFO_EXTENSION);
+                    // $extension = pathinfo($data['name'], PATHINFO_EXTENSION);
+                    // $fileKey = md5($data['name'] . $entity->email) . $extension;
+                    // return $fileKey;
+                },
+                'transformer' => function ($table, $entity, $data, $field, $settings) {
+                    //armazena a extensão do arquivo
+                    $extension = pathinfo($data['name'], PATHINFO_EXTENSION);
+
+                    // Guarda thumbnail em um arquivo temporario
+                    $tmp = tempnam(sys_get_temp_dir(), 'upload') . '.' . $extension;
+
+                    // Usa a lib Imagine para fazer a mágica
+                    $size = new \Imagine\Image\Box(60, 60);
+                    $mode = \Imagine\Image\ImageInterface::THUMBNAIL_OUTBOUND;
+                    $imagine = new \Imagine\Gd\Imagine();
+
+                    // Savando o arquivo modificado de sua pasta temporaria
+                    $imagine->open($data['tmp_name'])
+                            ->thumbnail($size, $mode)
+                            ->save($tmp);
+
+                    // Retorna o arquivo original e a thumbnail
+                    return [
+                        $data['tmp_name'] => $data['name'],
+                        $tmp => 'th-' . $data['name']
+                    ];
+                },
+                'deleteCallback' => function ($path, $entity, $field, $settings) {
+                    // Quando apagar um registro de entidade, ambos, o original e a thumbnail serão removidos
+                    // Quando keepFilesOnDelete está configurado para false
+                    return [
+                        $path . $entity->{$field},
+                        $path . 'th-' . $entity->{$field}
+                    ];
+                },
+                'keepFilesOnDelete' => false
+            ]
+        ]);
 
         $this->belongsTo('Grupos', [
             'foreignKey' => 'grupo_id',
@@ -82,13 +125,13 @@ class UsersTable extends Table {
         $validator
                 ->scalar('nome')
                 ->maxLength('nome', 250)
-                ->requirePresence('nome', 'create')
+                ->requirePresence('nome', TRUE)
                 ->notEmpty('nome');
 
         $validator
-                ->scalar('login')
+                ->scalar('login', FALSE, __('This value is already in use'))
                 ->maxLength('login', 60)
-                ->requirePresence('login', 'create')
+                ->requirePresence('login', TRUE)
                 ->notEmpty('login');
 
         $validator
@@ -108,8 +151,14 @@ class UsersTable extends Table {
         ]);
 
         $validator
-                ->scalar('foto')
-                ->maxLength('foto', 200)
+                ->allowEmpty('confirm_password', 'update')
+                ->add('confirm_password', 'compareWith', [
+                    'rule' => ['compareWith', 'senha'],
+                    'message' => __('Password not equal.')
+                        ]
+        );
+
+        $validator
                 ->allowEmpty('foto');
 
         return $validator;

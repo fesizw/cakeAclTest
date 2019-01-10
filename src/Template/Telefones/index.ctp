@@ -2,7 +2,7 @@
 <section class="content-header">
   <h1>
     Telefones
-    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs']) ?></div>
+    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs btn-flat']) ?></div>
   </h1>
 </section>
 
@@ -46,9 +46,9 @@
                 <td><?= $telefone->has('user') ? $this->Html->link($telefone->user->id, ['controller' => 'Users', 'action' => 'view', $telefone->user->id]) : '' ?></td>
                 <td><?= $telefone->has('cliente') ? $this->Html->link($telefone->cliente->id, ['controller' => 'Clientes', 'action' => 'view', $telefone->cliente->id]) : '' ?></td>
                 <td class="actions" style="white-space:nowrap">
-                  <?= $this->Html->link(__('View'), ['action' => 'view', $telefone->id], ['class'=>'btn btn-info btn-xs']) ?>
-                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $telefone->id], ['class'=>'btn btn-warning btn-xs']) ?>
-                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $telefone->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs']) ?>
+                  <?= $this->Html->link(__('View'), ['action' => 'view', $telefone->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
+                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $telefone->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
+                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $telefone->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>
                 </td>
               </tr>
             <?php endforeach; ?>

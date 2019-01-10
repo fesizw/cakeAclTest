@@ -4,7 +4,7 @@
         <?php
         ?>
         <?php echo __('Company'); ?>
-        <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class' => 'btn btn-success btn-xs']) ?></div>
+        <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class' => 'btn btn-success btn-xs btn-flat']) ?></div>
     </h1>
 </section>
 <?php require_once(WWW_ROOT . 'include/mask.php'); ?>
@@ -59,9 +59,9 @@
                                     <td><?= empty($company->cnpj) ? h(' - ') : h(mask($company->cnpj, '##.###.###/####-##')); ?></td>
                                     <td><?= empty($company->cpf) ? h(' - ') : h(mask($company->cpf, '###.###.###-##')); ?></td>
                                     <td class="actions" style="white-space:nowrap">
-                                        <?= $this->Html->link(__('View'), ['action' => 'view', $company->id], ['class' => 'btn btn-info btn-xs']) ?>
-                                        <?= $this->Html->link(__('Edit'), ['action' => 'edit', $company->id], ['class' => 'btn btn-warning btn-xs']) ?>
-                                        <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $company->id], ['confirm' => __('Confirm to delete this entry?'), 'class' => 'btn btn-danger btn-xs']) ?>
+                                        <?= $this->Html->link(__('View'), ['action' => 'view', $company->id], ['class' => 'btn btn-info btn-xs btn-flat']) ?>
+                                        <?= $this->Html->link(__('Edit'), ['action' => 'edit', $company->id], ['class' => 'btn btn-warning btn-xs btn-flat']) ?>
+                                        <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $company->id], ['confirm' => __('Confirm to delete this entry?'), 'class' => 'btn btn-danger btn-xs btn-flat']) ?>
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

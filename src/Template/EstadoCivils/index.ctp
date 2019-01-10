@@ -2,7 +2,7 @@
 <section class="content-header">
   <h1>
     Estado Civils
-    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs']) ?></div>
+    <div class="pull-right"><?= $this->Html->link(__('New'), ['action' => 'add'], ['class'=>'btn btn-success btn-xs btn-flat']) ?></div>
   </h1>
 </section>
 
@@ -42,9 +42,9 @@
                 <td><?= h($estadoCivil->tipo_estado_civil) ?></td>
                 <td><?= $estadoCivil->has('empresa') ? $this->Html->link($estadoCivil->empresa->id, ['controller' => 'Empresas', 'action' => 'view', $estadoCivil->empresa->id]) : '' ?></td>
                 <td class="actions" style="white-space:nowrap">
-                  <?= $this->Html->link(__('View'), ['action' => 'view', $estadoCivil->id], ['class'=>'btn btn-info btn-xs']) ?>
-                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $estadoCivil->id], ['class'=>'btn btn-warning btn-xs']) ?>
-                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $estadoCivil->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs']) ?>
+                  <?= $this->Html->link(__('View'), ['action' => 'view', $estadoCivil->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
+                  <?= $this->Html->link(__('Edit'), ['action' => 'edit', $estadoCivil->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
+                  <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $estadoCivil->id], ['confirm' => __('Confirm to delete this entry?'), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>
                 </td>
               </tr>
             <?php endforeach; ?>

@@ -1,6 +1,6 @@
 <section class="content-header">
     <h1>
-        User
+        <?= __('User') ?>
         <small><?= __('Add') ?></small>
     </h1>
     <ol class="breadcrumb">
@@ -22,13 +22,14 @@
                 </div>
                 <!-- /.box-header -->
                 <!-- form start -->
-                <?= $this->Form->create($user, array('role' => 'form')) ?>
+                <?= $this->Form->create($user, ['role' => 'form', 'type' => 'file']) ?>
                 <div class="box-body">
                     <?php
                     echo $this->Form->control('nome');
                     echo $this->Form->control('login');
                     echo $this->Form->control('senha', ['type' => 'password']);
-                    echo $this->Form->control('foto');
+                    echo $this->Form->control('confirm_password', ['type' => 'password']);
+                    echo $this->Form->control('foto', ['type' => 'file']);
                     echo $this->Form->control('grupo_id', ['options' => $grupos]);
                     echo $this->Form->control('unidade_id', ['options' => $unidades]);
                     echo $this->Form->control('empresa_id', ['options' => $empresas]);

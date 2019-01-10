@@ -109,11 +109,11 @@
                                     </td>
                                     
                                                                         <td class="actions">
-                                    <?= $this->Html->link(__('View'), ['controller' => 'Representantes', 'action' => 'view', $representantes->id], ['class'=>'btn btn-info btn-xs']) ?>
+                                    <?= $this->Html->link(__('View'), ['controller' => 'Representantes', 'action' => 'view', $representantes->id], ['class'=>'btn btn-info btn-xs btn-flat']) ?>
 
-                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Representantes', 'action' => 'edit', $representantes->id], ['class'=>'btn btn-warning btn-xs']) ?>
+                                    <?= $this->Html->link(__('Edit'), ['controller' => 'Representantes', 'action' => 'edit', $representantes->id], ['class'=>'btn btn-warning btn-xs btn-flat']) ?>
 
-                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Representantes', 'action' => 'delete', $representantes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $representantes->id), 'class'=>'btn btn-danger btn-xs']) ?>    
+                                    <?= $this->Form->postLink(__('Delete'), ['controller' => 'Representantes', 'action' => 'delete', $representantes->id], ['confirm' => __('Are you sure you want to delete # {0}?', $representantes->id), 'class'=>'btn btn-danger btn-xs btn-flat']) ?>    
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

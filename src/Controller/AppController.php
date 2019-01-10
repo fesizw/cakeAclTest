@@ -46,32 +46,32 @@ class AppController extends Controller {
         ]);
         $this->loadComponent('Flash');
 
-//        $this->loadComponent('Auth', [
-//            'authenticate' => [
-//                'Form' => [
-//                    'fields' => [
-//                        'username' => 'login',
-//                        'password' => 'senha'
-//                    ],
-//                    'userModel' => 'Users',
-//                    'passwordHasher' => 'Default'
-//                ]
-//            ],
-//            'loginAction' => [
-//                'controller' => 'Users',
-//                'action' => 'login'
-//            ],
-//            'loginRedirect' => [
-//                'controller' => 'Pages',
-//                'action' => 'index'
-//            ],
-//            'logoutRedirect' => [
-//                'controller' => 'Users',
-//                'action' => 'login'
-//            ],
-//            'authError' => __('You are not authorized to access that location.'),
-//            'storage' => 'Session'
-//        ]);
+        $this->loadComponent('Auth', [
+            'authenticate' => [
+                'Form' => [
+                    'fields' => [
+                        'username' => 'login',
+                        'password' => 'senha'
+                    ],
+                    'userModel' => 'Users',
+                    'passwordHasher' => 'Default'
+                ]
+            ],
+            'loginAction' => [
+                'controller' => 'Users',
+                'action' => 'login'
+            ],
+            'loginRedirect' => [
+                'controller' => 'Pages',
+                'action' => 'index'
+            ],
+            'logoutRedirect' => [
+                'controller' => 'Users',
+                'action' => 'login'
+            ],
+            'authError' => __('You are not authorized to access that location.'),
+            'storage' => 'Session'
+        ]);
 
         /*
          * Enable the following component for recommended CakePHP security settings.
