@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Routes configuration
  *
@@ -17,7 +18,7 @@
  * @link          https://cakephp.org CakePHP(tm) Project
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
-use Cake\Http\Middleware\CsrfProtectionMiddleware;
+use Cake\Core\Plugin;
 use Cake\Routing\RouteBuilder;
 use Cake\Routing\Router;
 use Cake\Routing\Route\DashedRoute;
@@ -46,17 +47,6 @@ use Cake\Routing\Route\DashedRoute;
 Router::defaultRouteClass(DashedRoute::class);
 
 Router::scope('/', function (RouteBuilder $routes) {
-    // Register scoped middleware for in scopes.
-    $routes->registerMiddleware('csrf', new CsrfProtectionMiddleware([
-        'httpOnly' => true
-    ]));
-
-    /**
-     * Apply a middleware to the current route scope.
-     * Requires middleware to be registered via `Application::routes()` with `registerMiddleware()`
-     */
-    $routes->applyMiddleware('csrf');
-
     /**
      * Here, we are connecting '/' (base path) to a controller called 'Pages',
      * its action called 'display', and we pass a param to select the view file
@@ -69,15 +59,39 @@ Router::scope('/', function (RouteBuilder $routes) {
      */
     $routes->connect('/pages/*', ['controller' => 'Pages', 'action' => 'display']);
 
+    // Rota para Login:
+    $routes->connect('/login', ['controller' => 'Users', 'action' => 'login']);
+
+    // Rotas para Users
+    #$routes->connect('/usuarios', ['controller' => 'Users', 'action' => 'index']);
+    #$routes->connect('/usuarios/:action/*', ['controller' => 'Users']);
+
+    // Rotas para Roles
+    #$routes->connect('/regras', ['controller' => 'Roles', 'action' => 'index']);
+    #$routes->connect('/regras/:action/*', ['controller' => 'Roles']);
+
+    // Rotas para Clients
+    #$routes->connect('/clientes', ['controller' => 'Clients', 'action' => 'index']);
+    #$routes->connect('/clientes/:action/*', ['controller' => 'Clients']);
+
+    // Rotas para Companys
+    #$routes->connect('/empresas', ['controller' => 'Companys', 'action' => 'index']);
+    #$routes->connect('/empresas/:action/*', ['controller' => 'Companys']);
+    
+    // // Rotas para Filiais
+    #$routes->connect('/filiais', ['controller' => 'Filials', 'action' => 'index']);
+    #$routes->connect('/filiais/:action/*', ['controller' => 'Filials']);
+
+    // Rotas para LoginTab
+    #$routes->connect('/oldLogin', ['controller' => 'loginTab', 'action' => 'index']);
+    #$routes->connect('/oldLogin/:action/*', ['controller' => 'loginTab']);
+
     /**
      * Connect catchall routes for all controllers.
      *
      * Using the argument `DashedRoute`, the `fallbacks` method is a shortcut for
-     *
-     * ```
-     * $routes->connect('/:controller', ['action' => 'index'], ['routeClass' => 'DashedRoute']);
-     * $routes->connect('/:controller/:action/*', [], ['routeClass' => 'DashedRoute']);
-     * ```
+     *    `$routes->connect('/:controller', ['action' => 'index'], ['routeClass' => 'DashedRoute']);`
+     *    `$routes->connect('/:controller/:action/*', [], ['routeClass' => 'DashedRoute']);`
      *
      * Any route class can be used with this method, such as:
      * - DashedRoute
@@ -90,15 +104,3 @@ Router::scope('/', function (RouteBuilder $routes) {
      */
     $routes->fallbacks(DashedRoute::class);
 });
-
-/**
- * If you need a different set of middleware or none at all,
- * open new scope and define routes there.
- *
- * ```
- * Router::scope('/api', function (RouteBuilder $routes) {
- *     // No $routes->applyMiddleware() here.
- *     // Connect API actions here.
- * });
- * ```
- */

@@ -1,0 +1,20 @@
+Dados Spark
+usr: felipe.sa
+pds: felipe
+srv: 10.0.0.214
+
+linux urs DEV
+usr: felipesa
+pds: 2014asprev:para-quedas
+
+ISPconfig
+srv: 10.0.20.42:????
+usr: 
+pds: 
+
+mSQLs
+usr: asprev
+pds: 2014asprev
+10.0.20.66 = Servidor GitLab
+10.0.20.42 = Servidor DEV
+10.0.0.214 = Servidor Spark 

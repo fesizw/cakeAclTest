@@ -1,0 +1,865 @@
+cod_autorizador,nome_autorizador,senha_autorizador,online,Usuários,backup,formulario,Alterar,Relatorio,Setor,Apagar,Funcionario,Honorario,ContatoInicial,Supervisao,ContaCorrente,Situacao,unidade,ConfCOnt,Unid,Distrib,GestJur,Recep,GerencFinanc,GerenciaJur,GerencAdm,GerencRecep,GT,Autoriza,PedirValor,Profissao,SupervSetor,Prazos,JPA,ADV,DCC,JPJEstag,codquadpessoal,homolog,isAtSimultaneo
+0,Adm,1234,0,1,1,0,1,1,D.C.C,1,1,1,1,0,1,Intranet_ATV,Matriz,1,1,1,0,0,1,1,1,1,GTTI,1,0,,0,0,1,0,0,0,99999000,,0
+1,Renato,valeny,1,1,1,0,1,1,T.I,1,1,1,1,1,1,Desativado,Matriz,1,1,1,0,0,1,1,1,1,GTC,1,1,,1,1,1,1,1,1,43,0,0
+2,Ricardo,000621,0,1,1,0,1,1,DeJur,1,1,1,1,0,1,Ativado,Matriz,1,1,1,0,0,1,1,1,1,,1,1,,1,0,1,1,1,1,7,1,0
+3,Luzia,Ismael27092017,0,1,1,0,1,1,"Dejur Suporte Jurídico",1,1,1,1,0,1,Ativado,Matriz,1,1,1,0,0,1,1,1,1,GTF,1,1,,1,0,1,1,1,1,8,1,0
+4,Patricia1,300578,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999040,,0
+5,Bittar,218034,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,57,,0
+6,Tatiana,2013,1,0,1,2,0,1,J.P.J,0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,67,,0
+7,"Daniel Bittar",daniel,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,"Vila Prudente",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999017,,0
+8,Ligia,calmon,0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,60,,0
+9,Ana,"Ana,",0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,11,,0
+10,Paula,1234,0,0,1,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,473,,0
+11,Vandeia,asprev,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999065,,0
+12,Vanessa,joao,0,0,1,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,34,,0
+13,Adriana,proibido,0,0,1,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,1,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,58,,0
+2529,"yasmin caniver","yasmin caniver",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1109,0,0
+15,Pedro,62,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,62,,0
+16,Celso,Palmeiras1914,0,0,1,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,1,0,1,44,,0
+17,Leandro-19,veralu,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999032,,0
+18,Aline,121007,0,0,1,2,1,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,50,,0
+20,Jessica1,91395,0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999029,,0
+21,Valverde,magg44,0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,80,,0
+22,Luciana,luka1910,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,251,,0
+24,Poliana,39247231,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,85,,0
+25,Isabel,123,0,0,1,2,1,1,Controladoria,1,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,1,0,0,0,,0,0,,0,0,0,0,0,0,99999026,,0
+26,Taynara,Plok2310*,0,0,1,2,0,0,Marketing,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,87,,0
+27,"Glaucia - desativado",0971,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999022,,0
+28,Marlene,Marlene,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,89,,0
+29,Marli,Marli,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999038,,0
+30,Caroline1,Caroline,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999012,,0
+31,Nessa,271018,0,0,1,1,0,0,D.C.C,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,1,0,90,,0
+32,Van,padilha321,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999064,,0
+34,Andreia,matheus,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,22,,0
+35,Lu,cb859d,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999034,,0
+36,Paty,Paty,0,0,1,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,1,0,,0,0,,0,0,0,0,0,0,99999041,,0
+37,"Aline Cristina",2378,0,0,0,2,1,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,97,,0
+39,"Mônica",010172,0,0,1,1,1,1,"Dejur Atendimento",1,0,0,1,1,1,Intranet_ATV,Matriz,1,1,0,0,0,0,0,0,1,,0,1,,1,0,0,0,0,0,99,1,1
+41,Miliane,Miliane,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,100,,0
+42,Daniele,Daniele,0,0,1,2,0,0,Diversos,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999018,,0
+43,Joao,joao,0,0,1,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999030,,0
+44,Tammyres,151257,0,0,1,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999059,,0
+45,Debora,159,0,0,1,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,131,,0
+46,Diogo,lola05,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,103,,0
+47,Fatima1,jesus,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999021,,0
+48,Flavia,Flavia,0,0,1,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,105,,0
+49,"Paty Araujo",3645,0,0,1,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999042,,0
+50,Renata,155550,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,106,,0
+51,Dalila,lilinha13,0,0,1,1,0,0,Controladoria,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,107,,0
+52,Rose,Rose,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Santana,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,108,,0
+53,Larissa,632856,0,0,1,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,"Mogi das Cruzes",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,109,,0
+54,Kamila,Kamila,0,0,1,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,110,,0
+55,Claudemir,5073264,0,0,1,1,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,111,,0
+56,Luiz,luiz,0,0,1,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,112,,0
+57,Priscilla,tricolor,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,113,,0
+58,Pamella,amarnovamente,0,0,1,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,114,,0
+59,"Thais Santos",thais,0,0,0,2,1,0,Consultoria,0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,115,,0
+60,marisa.alessandra,marisa,0,0,1,2,0,0,DeJur,1,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,1,0,0,1,0,1,116,0,0
+62,Roseane,03062006,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,118,,0
+64,Sani,nagolino13,0,0,0,1,1,1,Projetos,1,0,0,1,1,0,Intranet_ATV,Matriz,0,1,0,0,0,0,0,1,1,,0,1,,1,0,1,1,0,1,120,1,1
+66,Selma,Selma,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999055,,0
+67,Daniela,josue,0,0,1,1,1,1,Controladoria,1,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,1,0,0,0,,0,0,,0,0,0,0,0,0,121,,0
+68,Marcelo,2012,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,123,,0
+69,Diana,712531,0,0,1,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,124,,0
+70,josiane,270310,0,0,1,3,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,126,,0
+71,Regina,Regina,0,0,1,1,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,127,,0
+72,Rita1,1977,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999050,,0
+74,Marcia3,Marcia,0,0,1,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999036,,0
+75,Meghy,virtude,0,0,1,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,132,,0
+76,Willian,enzo,0,0,1,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,135,,0
+77,Eduardo,2536,0,0,1,2,0,0,DeJur,1,0,0,1,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,1,0,1,137,,0
+78,Adriano,030888,0,0,1,2,0,1,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,138,,0
+79,Lucas,484337,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,140,,0
+80,Tania,lucas2007,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,141,,0
+81,Vera,060598,0,0,1,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,144,,0
+82,Edu,edu,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,146,,0
+83,Joedson,Joedson,0,0,0,2,0,1,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,148,,0
+84,Jaqueline,Edilene2605,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,151,,0
+85,Marcos1,sccp,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999037,,0
+86,Janaina1,0101,0,0,0,2,1,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,172,,0
+87,Mariana,1234,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,154,,0
+89,"Renato Cardoso",Cardoso,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,GTP,0,0,,0,0,0,1,0,1,157,,0
+90,"Ana Luiza","Ana Luiza",0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,156,,0
+91,"Flavia M",Flavia,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,155,,0
+92,"Paula Cristina",Paula,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,158,,0
+93,Julianne,Julianne,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,159,,0
+94,Casemiro,1533,0,0,0,1,1,0,D.O.T,1,1,1,1,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,1,,0,1,,0,0,0,0,0,0,163,,0
+95,Talita,253010,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,160,,0
+96,Elaine,allan,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,161,,0
+97,Osmar,o16o1682,1,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,GTT,0,0,,0,1,0,1,0,1,164,,0
+98,Vivian,vivian,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,165,,0
+99,Wagner,Wagner,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,166,,0
+100,"Luana Marques",Lu,0,0,0,2,0,0,Diversos,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,169,,0
+101,Scanner,2011,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999054,,0
+102,Raonny,Raonny,0,0,0,2,0,0,Diversos,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999045,,0
+103,Joice,Joice,0,0,0,2,0,0,Diversos,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,170,,0
+104,Reina,Reina,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999047,,0
+105,Nilda,Nilda2017,0,0,0,1,1,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,1,1,,0,0,0,0,1,0,171,,0
+106,Laerte,Laerte,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,173,,0
+107,Treinamento,1234,0,0,0,2,0,0,T.I,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999063,,0
+108,Michele,Michele,0,0,1,2,0,0,"Recepção",0,0,0,1,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,201,,0
+110,Carol,Carol,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,178,,0
+111,Erika,Erika,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,130,,0
+112,Isaura,isa123,0,0,1,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999027,,0
+114,Marcel,862713,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,184,,0
+115,Genilson,ge974664,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,185,,0
+116,Amanda1,Amanda,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999003,,0
+117,Nara,3859,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,186,,0
+118,Lucilene,230209,0,0,0,2,1,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,191,,0
+119,Angelica,Angelica,0,0,0,2,0,0,"Recursos Humanos",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999006,,0
+120,"Ana Cristina",Ana,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999005,,0
+121,Evellyn,Evellyn,0,0,0,2,0,0,Diversos,0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,192,,0
+122,Karen,karen,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,198,,0
+123,"Erika Amorim",110401,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999020,,0
+124,Luciana,Luciana,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,204,,0
+125,Rosalva,95169414,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,197,,0
+126,Scaner2,1234,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999053,,0
+127,Tamy,Tamy,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999060,,0
+128,Ali,281290,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,206,,0
+129,Vinicius1,vini1010,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999067,,0
+130,Monique1,Monique1,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,207,,0
+131,"Paula Daniela",031156,0,0,0,2,1,0,"Recepção",1,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,211,,0
+133,Marcia1,Marcia,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,215,,0
+134,Elizabeth,Elizabeth,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,217,,0
+135,Juliana,120960,0,0,0,2,0,0,D.S.A,1,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,220,0,0
+136,Nubia,Nubia,0,0,1,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,222,,0
+137,Kelly,632512,0,0,0,2,1,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,224,,0
+138,Rodrigo1,Rodrigo,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,225,,0
+139,Tamires,40868722855,0,0,0,2,1,0,"Recepção",0,0,0,0,0,0,Desativado,"Mogi das Cruzes",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,226,,0
+140,Marcus,585858,0,0,0,2,0,0,"J.P.J Associados",1,0,0,1,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,GTP,0,1,,1,0,0,1,0,1,227,,0
+141,"Pedro Henrique",190963,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,229,,0
+142,"Cintia Recep","Cintia Recep",0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999015,,0
+143,Maria,cida,0,0,1,2,1,1,Unidades,0,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,1,1,1,1,0,1,231,1,1
+144,Benedito,saida1505,0,0,0,2,0,0,Marketing,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,230,,0
+145,Janaina,Janaina,0,0,0,2,1,1,Consultoria,1,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,232,,0
+146,Mari,mari,0,0,0,2,0,0,D.O.T,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,47,,0
+147,Fernanda,201202203Fe,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,"Mogi das Cruzes",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,234,,0
+148,Andre,andre,0,0,0,0,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,235,,0
+149,Teste,Teste,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Ativado,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999061,,0
+151,Thayssa,Thayssa,0,0,0,2,0,0,Marketing,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,241,,0
+152,"Erika Agapito",Erika,0,0,0,2,0,0,Marketing,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,240,,0
+153,Suellen,Suellen,0,0,0,1,0,0,"Jurídico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,239,,0
+154,Brenda,2530,0,0,0,1,0,0,"Dejur Expedição",0,0,1,1,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,242,,0
+155,Beatriz,1234,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,245,,0
+156,Diego,Diego,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,243,,0
+157,"Danilo Vilas Boas",danilo,0,1,1,0,1,1,T.I,1,1,0,1,0,0,Desativado,Matriz,1,1,1,0,0,1,1,1,1,,1,0,,0,0,0,0,0,0,99999019,,0
+158,Graciete,Azul2016,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Intranet_ATV,Cotia,0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,246,0,0
+159,Erick,09121990,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,GTP,0,0,,0,1,0,1,0,1,247,,0
+160,Vasconcellos,Vasconcellos,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999066,,0
+161,Sandro,Sandro,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Cotia,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,249,,0
+162,Newton,smdcl,0,0,0,2,0,0,"Atendimento Juridico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,248,,0
+163,Aline,Aline,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,252,,0
+164,Sayuri,Sayuri,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999052,,0
+165,Itera,Itera,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999028,,0
+166,Caroline2,truelove,0,0,0,1,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999013,,0
+167,Matheus1,Matheus1,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999039,,0
+168,Yuri,Yuri,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,257,,0
+169,Renata1,Renata,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999048,,0
+170,Andrea,Andrea,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,260,,0
+171,Gabriel,1234,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,580,,0
+172,Leticia,Leticia,0,0,0,1,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,259,,0
+173,"Erica Floriano",3982,0,0,0,2,0,0,"Recursos Humanos",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,269,,0
+174,Sheila(desativado),sheila,0,0,0,2,1,0,"Recepção",1,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999056,,0
+175,Driele,rael,0,0,0,2,0,0,"Recepção",1,0,0,0,0,0,Desativado,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,271,,0
+176,Thais,Thais,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,275,,0
+177,Cosmo,Cosmo,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,273,,0
+178,Lilian,Lilian,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,276,,0
+179,Amanda,Amanda,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,187,,0
+180,Melissa,9263,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,278,,0
+181,"Erika Chaves",chaves,0,0,0,2,1,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,279,,0
+182,Evelyn,Evelyn,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,282,,0
+184,Elliott,finebyme,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,286,0,0
+185,Alvaro,mestre,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,287,,0
+186,Antonieta,250789,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,284,,0
+187,Daiane1,daiane,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,281,,0
+188,Mikaelle,Mikaelle,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,288,,0
+189,Martielle,090802,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,293,,0
+190,Gabrielly,0102,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,295,,0
+191,Paulo,Paulo,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,296,,0
+192,"Daiane Carvalho",Gavioesdafiel,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,294,,0
+193,Catherine,291805,0,0,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,298,,0
+195,Lea,Lea,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,300,,0
+196,Ramon,1234,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,301,,0
+197,Kananda,Kananda,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,299,,0
+198,Iona,Iona,0,0,0,2,0,0,"Atendimento Juridico",0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,303,,0
+199,Valdir,Valdir,0,0,0,1,0,0,Controladoria,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,304,,0
+200,Stephanie,Cadeira22,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999057,,0
+201,Roberta,Roberta,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999051,,0
+202,"Ana Maria",ana,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,306,,0
+203,Mariana,Mariana,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,308,,0
+204,Luana,150858,0,0,1,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,1,0,1,0,1,0,1,307,,0
+205,"Lilian Regina",lilian,0,0,0,2,0,0,"Jurídico",1,0,0,0,0,0,Desativado,"São Miguel",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999033,,0
+206,"Luana França",YAGOFRANCA2108,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,311,,0
+207,Bianca,Bianca,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,310,,0
+208,Rodrigo,Adv037947,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,313,,0
+209,Leandro,Leandro,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,317,,0
+210,Giovanna,festival,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,316,,0
+211,Iara,Iara,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999025,,0
+212,Beatriz,842867,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,319,,0
+213,Carolina,122864,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,318,,0
+214,Jamilo,1234,0,0,0,1,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,321,,0
+215,Juridico,1234,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999031,,0
+216,Livia,1234,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,320,,0
+217,Arthur1,Arthur,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999008,,0
+218,Jaqueline,Edilene2605,0,0,0,2,1,0,"D.O.T C.I",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,331,,0
+219,"Jaqueline Moraes",Jack,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,"Mogi das Cruzes",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,335,,0
+220,Thais,Thais,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,336,,0
+221,Marcos,2006,0,1,1,2,0,1,T.I,0,1,1,1,0,1,Ativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,339,,0
+222,Sergio,Sergio,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,601,,0
+223,Alex,0800leo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,GTT,0,0,,0,0,0,0,0,0,440,,0
+224,Odeene,Odeene,0,0,0,2,1,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,338,,0
+225,Francisca,danilo14,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,441,,0
+226,Aline,Aline,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,442,,0
+227,Fernando,Fernando,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,443,,0
+228,"Beatriz Leitole",1234,0,1,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,450,,0
+229,Alessandra,absoluta,0,0,0,2,0,0,"Atendimento Juridico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,451,,0
+230,Geraldo,Geraldo,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,452,,0
+231,"Claudio Yohei",Claudio,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999016,,0
+232,"Daniele Vilhegas",65945,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,454,,0
+233,susan,susan,0,0,0,2,1,0,"Recepção",1,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,456,,0
+234,Gleyca,0601,0,0,0,1,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,457,,0
+235,Agatha1,Agatha1,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,460,,0
+236,"Ricardo Almeida",ricardo,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999049,,0
+237,Juan,Juan,0,0,0,2,1,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,462,,0
+238,Endrew,Endrew,0,0,0,2,1,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,464,,0
+239,Paulo,Du1676,0,0,0,2,0,0,"Atendimento Juridico",0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,463,,0
+240,"Alan Kardec","Alan Kardec",0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,465,,0
+241,"Daniel augusto","Daniel augusto",0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,466,,0
+242,"Eduardo Souza",e1997,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,467,,0
+243,Andressa1,Andressa1,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,472,,0
+244,Ercilio,ercilio,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,333,,0
+245,Ana,1512,0,0,0,2,0,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,469,,0
+246,walini,isa22,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,216,,0
+247,Valdirene,26sakura,0,0,1,2,0,0,"Dejur Análise",0,0,0,1,0,0,Desativado,Matriz,0,0,1,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,474,,0
+248,Dayana,Dayana,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,476,,0
+249,Vnek,Vnek,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999068,,0
+250,"Camila J","Camila J",0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999011,,0
+251,David1,910502,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,477,,0
+252,Cheyenne,1234,0,0,0,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,478,,0
+253,"Jaqueline Alves",Jaqueline,0,0,0,2,1,0,"Recepção",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,479,,0
+254,"Danielle Silva",dani,0,0,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,482,,0
+255,Cintia,Cintia,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,228,,0
+256,Stefani,Stefani,0,0,1,2,0,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,484,,0
+257,Gerson,Gerson,0,0,0,2,0,0,"Estágio Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,486,,0
+259,Henrique,31555531,0,0,0,1,0,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,488,,0
+260,Vanda,Novembro2016,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,214,,0
+261,Leonor,Leonor,0,0,0,2,0,0,limpeza,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,5,,0
+262,Katia1,Katia,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,119,,0
+263,"Daniela Oliveira","Daniela Oliveira",0,0,0,2,0,0,limpeza,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,250,,0
+264,Eloa,Eloa,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,322,,0
+265,Helizabeth,150279,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,309,,0
+266,Octavio,Octavio,0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,337,,0
+267,"Priscila Pinheiro","Priscila Pinheiro",0,0,0,2,0,0,Administrativo,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,312,,0
+268,Rosangela,021125,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,468,,0
+269,Fiama,2014,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,"São Bernardo",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,492,,0
+270,"Aline Rodrigues",220795al,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,493,,0
+271,Natanael,7443noc,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,494,,0
+272,Grayce,grayce,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,495,,0
+273,Nathalia,Nathalia,0,0,1,2,0,0,Administrativo,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,236,,0
+274,Natalia,160411,0,0,0,2,1,0,D.O.T,1,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,497,,0
+275,Paloma,paloma,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,568,,0
+276,Karina,linanda94,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,499,,0
+277,Rafaela,704923,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,1,0,Desativado,Matriz,0,0,0,0,0,0,0,1,0,,0,0,,0,0,1,1,0,1,500,,0
+278,Isabelly,Isa0815,0,0,0,1,0,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,1,0,0,0,,0,0,,0,0,0,0,0,0,501,,0
+279,"Juliana Paulo",juliana,0,0,0,2,1,0,"D.O.T Telefonia",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,504,,0
+280,Fabiana,pietro,0,0,0,2,1,1,"Recursos Humanos",0,1,0,1,1,0,Desativado,Matriz,1,0,0,0,0,0,0,0,1,,0,1,,1,0,0,0,0,0,505,0,0
+281,Tharini,tharini510552,0,0,0,2,1,1,A.G.U./Atendimento,0,0,1,0,1,0,Desativado,Matriz,1,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,507,,0
+282,Camila,1403,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,506,,0
+283,Ruana,ruana,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,508,,0
+284,Tuany,carica11,0,0,0,2,1,0,"Estágio Admininstrativo",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,509,,0
+285,"Paulo Rogerio",301207,0,0,1,0,1,1,Controladoria,1,1,1,1,0,1,Desativado,Matriz,0,1,0,0,0,1,1,1,1,,1,1,,0,0,0,0,0,1,511,1,0
+286,Daiana,Daiana,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,512,,0
+289,"Vanessa Santos",Vanessa,0,0,0,2,0,0,D.O.T,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,517,,0
+290,Layana,Layana,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,399,,0
+291,Amanda2,9169,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999004,,0
+292,Fernanda,Abner123,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,519,,0
+293,Damaris,dan,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,1,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,524,0,1
+294,Bruna,Bruna,0,0,0,2,0,0,"Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,520,,0
+295,"Marília",marilia,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,521,,0
+296,Alessandro,alessandro04,0,0,0,2,0,0,"Dejur Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,522,,0
+297,izabel.tavares,bela0923,1,0,1,0,1,1,CONTROLADORIA,1,0,1,0,1,0,Ativado,Matriz,0,1,0,0,0,1,0,0,0,,1,1,,1,0,0,0,0,0,526,,0
+298,Malrina,Malrina,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,525,,0
+299,David,123Mudar,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,527,,0
+300,Abad,camila,1,0,0,1,0,0,D.C.C,1,0,1,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,1,0,0,0,1,0,528,0,0
+301,Valeria,Valeria,0,0,0,0,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,529,,0
+302,Elaine,Elaine,1,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,530,,0
+304,Matheus,Matheus,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,167,,0
+305,"Aline Fernandes",vania123,0,0,0,2,1,1,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,533,,0
+306,Jessica,Jessica,0,0,0,2,0,0,A.G.U,0,0,1,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,534,,0
+307,Julle,Julle,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,536,,0
+308,Gabriela,Gabriela,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,687,,0
+309,Reginabel,Salgado#3406,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,1,0,Intranet_ATV,Centro,0,1,0,0,0,0,0,0,0,,1,0,,0,0,0,0,0,0,541,1,1
+310,Ideli,Ideli,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,540,,0
+311,Carla,Carla,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,539,,0
+312,"Camila Ruas",10142309c,0,0,1,2,0,0,"Dejur Autuação e Lançamento",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,535,,0
+313,Marcio,Marcio,0,0,0,2,0,0,J.P.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,538,,0
+314,Rosilda,Rosilda,0,0,0,2,0,0,J.P.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,523,,0
+315,Rodolfo,102030face,0,0,0,2,0,0,J.P.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,510,,0
+316,Dulce,Dulce,0,0,0,2,0,1,A.G.U,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,Controladoria,0,0,,0,0,0,0,0,0,542,,0
+317,Miki,Miki,0,0,0,2,0,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,545,,0
+318,Mariana,Mariana,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,544,,0
+319,"Jessica Ferreira",jessica,0,0,0,2,1,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,543,,0
+320,Mariza,Mariza,0,0,0,2,0,0,"Recepção",0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,546,,0
+321,Marcelo,8526elya,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,547,,0
+322,Rayany,eduardo,0,0,0,2,1,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,548,,0
+323,"Ana Kelly",ana,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,549,,0
+324,"Flavia Uemori",flavia,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,552,,0
+325,Barbara,tatuapeSJ,1,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,551,,0
+326,angela,silvanobastos,0,0,0,2,1,0,Consultoria,0,0,0,1,0,0,Desativado,Santana,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,516,,0
+327,"Ana Carolina",ana,0,0,0,2,0,0,"J.P.J Estagiário",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,555,,0
+328,Andrea1,Andrea,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,556,,0
+329,"Claudia a","Claudia a",0,0,0,2,1,1,J.P.A,1,0,0,0,0,0,Desativado,"São Bernardo",0,1,0,0,0,0,0,0,1,,0,0,,0,0,1,0,0,0,559,,0
+330,Luciene,luciene,0,0,0,1,0,0,Administrativo,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,1,,0,0,0,0,0,0,557,,0
+331,Simone,Simone,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,558,,0
+332,Fabio,Fabio,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,560,,0
+333,Fatima,Fatima,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Santana,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,104,,0
+334,Thiago,carlosviadotraira,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,550,,0
+335,Sabrina1,Sabrina1,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,"São Bernardo",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,562,,0
+336,"Ricardo Augusto",Ricardo,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,567,,0
+337,Paloma,melopa21,0,0,0,1,0,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,498,,0
+338,"Valeria Souza",valeria,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Guarulhos,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,569,,0
+339,Denise,Isabelle,0,0,0,2,0,0,DeJur,0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,573,,0
+340,Natasha,911227,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Intranet_ATV,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,576,,0
+341,Bianca,131214,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,577,,0
+342,Hellen,giovanna,0,0,0,2,1,0,"D.O.T C.I",0,0,0,1,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,578,,0
+343,Gabriel,170811,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,487,,0
+344,"Kelly Dayane",09082012,0,0,0,2,1,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,1,0,0,0,,1,1,,0,0,0,0,0,0,579,,0
+345,Caroline3,Caroline,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999014,,0
+346,"Giovanna Cabral",piovani,0,0,0,1,1,1,Controladoria,0,0,1,0,1,0,Ativado,Matriz,0,0,0,0,0,1,0,0,0,,1,1,,0,0,0,0,0,0,589,0,0
+347,"Caroline Jesus",Thiago1103,1,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,588,,0
+348,"Barbara Caroline",barbara,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,587,,0
+349,Viviane,Viviane,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,590,,0
+350,Simone,Simone,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,591,,0
+351,"Rafaela Mariano",rafaela,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,593,,0
+352,"Amanda Ribeiro",daniel312330,0,0,0,2,1,1,D.C.C,0,0,0,1,0,0,Desativado,Matriz,0,0,1,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,610,,0
+354,Diego,Diego,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,608,,0
+355,Renata2,Renata,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,256,,0
+356,Felipe,Felipe,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,609,,0
+357,"Ana Paula2",299076,0,0,0,2,1,0,DeJur,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,613,,0
+358,"Rafael 1",Uninove,0,0,0,2,0,0,A.G.U,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999043,,0
+359,Sheila,sheilac,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Ativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,617,,0
+360,"Camila Sales",camila,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,612,,0
+361,"Rafael 2",Rafael,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,616,,0
+363,"Carolina Machado",carolina,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,614,,0
+364,"Priscila Souza",Sonhos,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,618,,0
+366,Jessica2,Jessica,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,624,,0
+367,"Amanda Pedrazzoli",250784,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,625,,0
+368,"Ana Conceicao",ana,0,0,0,2,1,0,A.G.U,1,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,626,,0
+371,"Marcus Mota",mavsanto,0,0,0,2,1,0,D.O.T,1,0,0,1,1,0,Desativado,Matriz,0,1,0,0,0,0,0,0,1,,0,0,,1,0,0,0,0,0,630,,0
+372,"Maria Deodoro",AMOR,1,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,631,,0
+373,Danilo1,Danilo,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,183,,0
+374,Taina,amizade,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,639,,0
+377,Alexandre2,Alexandre,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,99999002,,0
+369,Michelle,30012014,0,0,0,2,0,0,D.C.C,0,0,1,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,1,0,628,,0
+370,Claudio,Claudio,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,629,,0
+375,"Renato Passanante",renato,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,641,,0
+376,"Gabriel Vidoi",123,0,1,1,3,1,1,T.I,1,1,1,1,1,1,Desativado,Matriz,1,1,1,0,0,1,1,1,1,,1,1,,0,0,1,1,1,1,640,,0
+381,Sara,Summer,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,689,,0
+382,Vanubia,Vanubia,0,0,0,2,0,0,"D.O.T C.I",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,646,,0
+383,"Monica Alves",guardame22,0,0,1,2,0,0,"Dejur Atendimento Telefônico",0,0,0,1,0,0,Desativado,Matriz,0,0,1,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,645,,0
+384,Alan,Alan,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,"São Bernardo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,651,,0
+385,Bruno,BGF.151086,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,655,,0
+386,Gustavo,Kpljnj9b,0,0,0,2,0,0,T.I,1,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999023,,0
+387,"Thais Vianna",thais,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999062,,0
+388,Thaynara,derrotada23,0,0,0,2,1,0,D.O.T,1,0,0,1,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,657,,0
+389,"Fabiana Gomes",fabiana,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,658,,0
+390,"Lucas Capucho",Lucas,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,660,,0
+405,"Erica Ribeiro",erica,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,680,,0
+392,Carlos1,Carlos,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,666,,0
+393,"Viviane Luna",creio2206,0,0,0,2,1,1,A.G.U,1,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,665,,0
+394,"Flavia Santos",952712,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Cotia,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,664,,0
+395,Aaron,@rinhos77,0,0,0,2,1,1,DeJur,1,0,0,1,0,0,Ativado,Matriz,1,1,0,0,0,0,0,0,1,,0,0,1,0,0,0,0,0,0,667,,0
+396,Milena,Milena,0,0,0,2,0,0,"Dejur Análise",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,668,,0
+397,Hantchesla,Hantchesla,0,0,0,2,0,0,"J.P.J Estagiário",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,670,,0
+398,"Taina Lima",taina,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,672,,0
+402,Ingrid,murilo,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,676,,0
+403,"Paloma Fonseca",paloma1,0,0,0,2,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,678,,0
+404,Vagner,Vagner,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,679,,0
+406,"Carla Bachega",caca1010,0,0,0,2,1,0,Consultoria,0,0,1,0,1,0,Desativado,"Vila Endres",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,681,,0
+407,"Valeria Alves",valeria,0,0,0,2,1,0,A.G.U,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,682,,0
+408,"Lilian Pereira",15053110,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,684,,0
+409,"Gustavo Carraci",gustavo,0,0,0,2,0,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,653,,0
+410,"Natalia Lago",natalia,0,0,0,2,0,0,"Dejur Expedição",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,650,,0
+411,"Carlos Junior",7portais,0,0,0,2,0,0,"Dejur Análise",0,0,0,1,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,674,,0
+412,"Thais Cardoso",070774,0,0,0,2,0,0,"Dejur Atendimento Telefônico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,686,,0
+415,Angelo,olegna6,0,0,0,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,692,,0
+416,Vinicius,debloyd123,0,0,0,2,1,0,"Dejur Suporte Jurídico",0,0,0,1,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,691,,0
+417,"Amanda Ingrid",ringue,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,695,,0
+418,Aline,aline,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,694,,0
+419,"Sheila Rodrigues",rafael,0,0,0,0,0,0,D.C.C,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,1,0,693,,0
+421,"Vinicius Ribeiro",asprevk,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,696,,0
+423,"Barbara Duraes",Punk1393,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,699,,0
+424,Kauane,kaucaroline123456789,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Desativado,Santana,0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,700,,0
+427,Juliane,3333,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Desativado,"Vila Endres",0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,702,0,0
+378,Guilherme,menorbda,0,0,0,2,0,0,DeJur,0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,1,0,1,642,,0
+379,Leticia1,Leticia,0,0,0,2,0,0,A.G.U,0,0,0,1,0,0,Desativado,Santana,0,1,0,0,0,0,0,0,0,,1,0,,0,0,0,0,0,0,643,,0
+413,Gabriela1,Gabriela,0,0,0,0,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,537,,0
+425,"Henrique Dione",Hd402492,0,0,0,1,0,1,Controladoria,0,0,1,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,1,1,,0,0,0,0,0,0,99999024,,0
+399,"Patricia Satiko",patricia,0,0,0,2,0,0,"J.P.J Estagiário",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,671,,0
+414,"Jessica Rocha",jessica,1,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,688,,0
+401,"Erica Gomes",erica,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,673,,0
+422,"Patricia Rezende",patricia,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,"São Bernardo",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,697,,0
+420,jane,janep,0,0,0,2,0,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,690,,0
+426,Raquel,rml21,0,1,0,2,0,0,"Recursos Humanos",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999046,,0
+428,mayrin,miguelpimenta,0,0,0,2,0,0,Consultoria,0,0,0,1,0,0,Desativado,"Vila Endres",0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,704,,0
+429,"Raquel Marques",marcos,0,1,0,2,1,1,"Recursos Humanos",0,1,0,1,0,0,Desativado,Matriz,1,0,0,0,0,0,0,0,1,,0,1,,0,0,0,0,0,0,213,,0
+431,"adriana cristina",adriana,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999001,,0
+432,Hyanka,larth,0,0,0,1,0,0,"Dejur Atendimento Telefônico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,707,,0
+433,"erick ribeiro",abacaxi,0,1,1,0,1,1,T.I,1,1,1,1,0,0,Desativado,Matriz,1,1,1,0,0,1,1,1,1,,1,0,,0,0,1,1,1,1,708,0,0
+434,eberson,228112,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,710,,0
+435,filipe,hunter,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,709,,0
+437,"Paloma Alencar",paloma,0,0,0,2,0,0,"Atendimento Juridico",0,0,0,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,712,,0
+438,"Lucas Toffoli",Camila15,0,0,0,2,1,0,DeJur,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,713,,0
+455,"gabriel miudo",Gabriel,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,721,,0
+440,Emannuel,5248,0,1,0,0,0,0,T.I,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,714,,0
+457,"Marcelo Lopes",marcelo,0,0,0,2,0,0,Marketing,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,732,,0
+442,"ana bezerra",ana,0,0,1,2,1,0,J.P.A,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,716,,0
+443,"monica romero",Gui112005,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,719,,0
+445,"gustavo santos",Gus1566,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,717,,0
+461,"Evelin Borlin",230690,0,0,0,1,1,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,1,0,0,0,,1,1,,0,0,0,0,0,0,738,,0
+464,"Rafaela Manoel",rafaela,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,739,,0
+466,"Aline Souza",lorenna1315,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Santo Amaro",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,741,,0
+470,Adailton,123,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,554,,0
+430,anderson,Ancm!42,1,1,1,0,1,1,T.I,1,1,0,1,0,0,Desativado,Matriz,1,1,1,0,0,1,1,1,1,,1,0,,0,0,0,0,0,0,705,,0
+446,"thiago nascimento",13121988,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,720,,0
+467,"Denise Tavares",Ju280403,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Intranet_ATV,"São Bernardo do Campo",0,1,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,740,0,0
+459,"Jessica Mendonça",jessica,1,0,0,2,1,1,Consultoria,0,0,1,0,0,0,Desativado,Guarulhos,1,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,735,,0
+472,"Karla Passos","Karla Passos",0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,746,,0
+2530,"thais freire","thais freire",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1110,0,0
+571,rita,rita,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,129,,0
+630,"Juliana Custodio",juliana,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,881,,0
+477,patricia,patricia,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,747,,0
+478,alexandre1,alexandre,0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,603,,0
+479,Rafael,rafa415263,0,0,0,2,0,0,"Dejur Análise",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,779,,0
+481,"Marcos Roberto",marcos,0,0,0,2,0,0,"J.P.J Associados",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,750,,0
+482,"Guilherme Lima",031211,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,1,745,,0
+483,"Caio Vinicius",caio,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999010,,0
+484,"Caio André",caio,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999009,,0
+485,"Aline Santos",aline,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,752,,0
+486,"Natalia Birollo",natalia,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,753,,0
+487,"Caio Almeida",caio,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,751,,0
+488,"Vinicius Freitas",vinicius,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,754,,0
+489,"jonas bezerra","jonas bezerra",0,0,0,2,0,0,,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,756,,0
+490,"Danilo Santos",danilo,0,0,0,2,0,0,"J.P.J Estagiário",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,757,,0
+491,Natalie,Natalie,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,669,,0
+492,gislaine,gislaine,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,758,,0
+493,"Fabio Almeida",semsenha123,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,759,,0
+494,Carlos,Carlos,0,0,0,2,1,0,DeJur,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,117,,0
+496,"Rogerio Paiva","Rogerio Paiva",0,0,0,2,0,0,,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,760,,0
+499,"Bruna Lima",Sergio1,1,0,0,2,0,0,"Negócios",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,764,,0
+2380,"André Luis","André Luis",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,976,,0
+2489,jessica.almeida,jessica,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1070,0,0
+503,"Danilo Lima",danilo,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,765,,0
+504,"Leandro-19 2",leabdri,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,19,,0
+509,mirella,mirella,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,769,,0
+510,"Thiago Cardoso","Thiago Cardoso",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,770,,0
+515,"Clara Sousa",Clara,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,776,,0
+514,"Mateus Assunção",mateus,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,774,,0
+516,"Cristina Lopes",773085,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,778,,0
+517,"Milaine Souza",Amigos33,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,780,,0
+522,"Rafael Souza",Rafael,0,0,0,2,1,1,DeJur,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999044,,0
+523,"Suellen Santos",Suellen,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,777,,0
+526,"Lais Cezario",lais,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,789,,0
+527,"Renata Alves",1201,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,788,,0
+528,"Jaqueline Farias",giovannav,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Intranet_ATV,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,787,0,0
+535,"Camilla Prates",Milla0391,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,796,,0
+536,caroline,caroline,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,797,,0
+538,Paulina,Paulina,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,771,,0
+548,"Vanessa Silva",vanessa,1,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,807,,0
+552,"Luiz fernando",luiz,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,806,,0
+553,"fabiana santos",fabiana,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,814,,0
+577,Barbara,tatuapeSJ,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Desativado,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,837,,0
+436,Danylo,Gangsta,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,711,,0
+444,"gabriela melo",caique0503,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,718,,0
+480,"Subsede Sorocaba",1410215,0,0,0,0,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"SindSaúde Sorocaba",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999058,,0
+518,"Matheus Oliveira",Matheus,0,0,0,2,0,0,"Dejur Atendimento",0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,781,,0
+529,Priscila,1707,0,0,1,2,0,0,"Dejur Análise",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,795,,0
+530,agatha,0702,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,794,0,0
+531,Andressa,050892apk,0,0,1,2,0,0,"Dejur Análise",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,793,,0
+532,claudia,anjinho,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,792,,0
+533,arthur,1905,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,791,,0
+534,"denise santos",123,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,790,,0
+549,elivelton,elivelton,0,0,0,1,0,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,811,,0
+550,daniel,daniel,1,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Guarulhos,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,810,,0
+2467,debora.lopes,Debora,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1049,0,0
+2501,natalia.oliveira,Natalia,0,0,0,2,0,0,"DEJUR SUPORTE JURÍDICO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1082,0,0
+554,gizella,gizella,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,817,,0
+555,Joicy,joicy,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,816,,0
+562,monique,monique,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,824,,0
+559,Rubia,Morango10,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,820,,0
+563,"Gabriela Alves",astolfo,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,825,,0
+564,"Thaynara Caraca",caracathay,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,826,,0
+565,Zilmar,08152512,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,827,,0
+2554,aline,aline,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1133,0,0
+568,rodolfo,571993,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,830,,0
+569,"gislaine silva","gislaine silva",1,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,828,,0
+570,maykon,9899,0,0,0,2,0,0,D.S.A,0,0,1,0,0,0,Desativado,Matriz,0,0,0,0,0,1,1,1,0,,0,0,,0,0,0,0,0,0,829,,0
+572,"eduardo oliveira",Ernesto2405,0,0,0,1,1,1,Controladoria,0,0,1,0,0,0,Ativado,Matriz,0,0,0,0,0,1,0,0,0,,1,1,,0,0,0,0,0,0,832,,0
+573,Natalia,Natalia,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,531,,0
+574,marcos.augusto,marcos,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,,,0
+593,"Diana Nascimento",Arnaldo,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,844,,0
+576,cleide,cleide,0,0,0,2,0,0,"D.O.T Telefonia",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,836,,0
+578,"Renato Henrique",re130186to,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Desativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,838,,0
+579,"Dalila Rocha",Dalila2709,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,839,,0
+580,glaucia,8724,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,840,,0
+582,Rosely,rosely,0,0,0,2,0,0,"Dejur Atendimento Presencial",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,835,,0
+583,"Marcos Augusto",Bernardo,0,0,0,2,0,0,A.G.U./Atendimento,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,834,,0
+584,"Jefferson Ramos",Jefferson,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,570,,0
+585,"Roberto Izidoro",Roberto,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,703,,0
+591,"Eduardo Silva",eduardo,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,843,,0
+592,"Nathacha Lima",Nathacha,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,813,,0
+594,Revilhyn,at23112009,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,845,,0
+601,"Victor Magarote",Victor,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,855,,0
+602,Eliane,Eliane,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,854,,0
+603,"Kelly Santana",Asprev2016,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,853,,0
+604,"Alessandro Freitas",Alessandro,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,856,,0
+605,"Angelo Tarcio",Ang@070683,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,857,,0
+608,"Luciana Camapnelli",luciana,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,859,,0
+609,willys,willys,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,860,,0
+610,"Ana Maria","Ana Maria",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,861,,0
+524,"Alini Ribeiro",alini,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,785,,0
+448,Nayla,nayla123,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,723,,0
+449,"camila marques",camilamarques,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,724,,0
+450,"Raul Silva",raulsilva,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,725,,0
+451,"Patricia Campos",rafa,0,0,0,2,1,1,"Dejur Atendimento",0,0,1,0,1,0,Desativado,Centro,1,0,0,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,727,0,0
+452,"Samanta Dias",samantadias,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,729,,0
+453,"Ana Santos",Manuellas2,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"São Bernardo do Campo",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,726,,0
+454,"Bruna Soares",brunasoares,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"São Bernardo do Campo",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,728,,0
+456,"Thiago Lemes",thiago,0,0,0,2,0,0,J.P.J,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,731,,0
+540,"Arissia Karen",200893,0,0,0,2,0,0,"Recursos Humanos",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,768,,0
+543,mayara,mayara,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,802,,0
+544,victor,duarte,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,803,,0
+545,sabrina,211275,0,0,0,2,0,0,"Dejur Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,804,,0
+546,Gisele,gisele,0,0,0,2,0,0,"Dejur Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,1,805,,0
+617,"Mayara Nascimento",Rita161070,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,868,,0
+623,Pollyana,Tiago,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,875,,0
+624,Daires,Daires,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,876,,0
+625,"Aline Almeida",aline,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,877,,0
+2424,marcel,Marcel,0,0,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1016,,0
+629,jessica.moura,jessica.moura,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,880,,0
+632,Leandra,le191285,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,883,,0
+636,"Maria Pires",091108Lb,0,0,0,2,0,0,Dejur,0,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,886,1,0
+639,roberto,roberto,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,889,,0
+669,"Antonio Cesar",Antonio,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,918,,0
+644,"Fernanda Moraes",fernanda,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,892,,0
+645,"Filipe Ramaldes",filipe,0,0,0,2,0,0,"Dejur Atendimento Presencial",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,893,,0
+653,Alessandra.Farani,alessandra,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,900,,0
+654,"Marilda Palazzo",Marilda,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,904,,0
+670,nelida,nelida,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,919,,0
+671,"Erika Oliveira","Erika Oliveira",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,920,,0
+665,"Tayna Guilherme",tayna,0,1,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,915,,0
+679,Enoque,Enoque,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,925,0,0
+681,"Alexandre Blanco","Alexandre Blanco",0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,932,,0
+682,"Paloma Costa",07121968,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,1,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,933,,0
+684,bruno,bruno,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,929,,0
+687,jose.olimpio,jose,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,947,,0
+691,wilson.trajano,wilson,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,951,,0
+693,eber.lima,eber,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,953,,0
+695,Mikaelly,0208,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,955,,0
+697,"julio cesar",julio,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,957,,0
+2367,Maria.Cleide,Maria,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,964,,0
+2370,regiane.cristina,regiane,0,0,0,2,0,0,,0,0,0,0,0,0,Intranet_ATV,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,966,,0
+2373,artur.capano,artur,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,969,,0
+2425,"Aline Soares","Aline Soares",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1017,,0
+2430,Ana.Nunes,ana,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1022,0,0
+2431,patricia.alves,patricia,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1023,,0
+2433,alane.sousa,alane,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1025,,0
+2437,giovanna.moreira,giovanna,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1028,,0
+2443,rony.silva,Rony,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1033,,0
+2449,nathaly.lima,nathaly,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1036,,0
+2455,"camila canosa",Camila,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1041,0,0
+2459,gabriel.watar,gabriel,0,0,0,2,0,0,Controladoria,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1044,0,0
+2465,"andre canosa","andre canosa",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1048,0,0
+2472,joice.guimaraes,joice.guimaraes,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1053,0,0
+2496,erika.cruz,erika,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,1077,0,0
+2497,nathalia.colliaso,nathalia,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,1078,0,0
+462,Gabriel,Gabriel,0,0,0,2,0,0,J.P.J,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,261,,0
+463,luiz.uberti,1234,0,1,1,3,1,1,T.I,1,1,1,1,0,1,Ativado,Matriz,1,1,1,0,0,1,1,1,1,,1,1,,0,0,1,1,1,1,730,0,0
+560,"Gisele Telles",gisele,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,821,,0
+561,ulisses,ulisses,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,822,,0
+586,"Thiago santos",Thiago,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,637,,0
+588,"Katia Santos",katia,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,571,,0
+589,"Waldirene Carvalho",130318,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,585,,0
+598,"Daiana Disselli",1642,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,849,,0
+606,willey,willey,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,858,,0
+611,"Natalia Aparecida",Natalia,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,862,,0
+612,"Edson Ribeiro",Edson,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,863,,0
+613,"Thays Helena","Thays Helena",0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,864,,0
+614,"caroline alves",Caroline,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,865,,0
+615,"Diogenes Alexandre",Di124215,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,866,,0
+616,"Thiago Pinheiro",streetbal1994,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,867,,0
+618,"Thais Neves","Thais Neves",0,0,1,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,871,,0
+619,Attos,Attos,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,870,,0
+620,"Renata Carolino",m0904,0,0,1,2,0,0,"Dejur Suporte Jurídico",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,0,869,,0
+678,"Camila Soares",camila,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,928,,0
+680,Claudia,Claudia,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,931,,0
+686,islam.ahmad,islam,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,946,,0
+2450,alefe,Alefe,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1037,,0
+2462,samuel.estevao,samuel,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1047,0,0
+2498,eduarda,eduarda,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1079,0,0
+2499,"fabio kassem","fabio kassem",0,0,0,2,0,0,Dejur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1080,0,0
+2504,"Gabriela Duarte",gabriela,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1085,0,0
+2555,juliana.souza,juliana,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1134,0,0
+2562,bruna.oliveira,bruna,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1141,0,0
+2564,edvaldo.junior,edvaldo,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1143,0,0
+473,Marcia2,Marcia,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999035,,0
+505,"Renan Groper",renan,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,766,,0
+672,"Alessandra Wenzel","Alessandra Wenzel",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,922,,0
+506,"Everton Nunes","Everton Nunes",0,0,0,2,1,0,"D.O.T C.I",0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,767,,0
+508,Arissia,Arissia,0,0,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,99999007,,0
+474,Josenilda,josenilda,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,644,,0
+475,Rosemary,Rosemary,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,722,,0
+476,Marcia,Marcia,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,662,,0
+551,"Suporte Juridico","Suporte Juridico",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,808,,0
+635,"Gabriela Queiroz",gabi131724,0,0,0,2,0,0,Controladoria,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,885,,0
+646,Rubens,Rubens,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,896,,0
+647,"Fernando Sendas",fernando,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,897,,0
+648,"Rosa Camargo",rosa,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,898,,0
+649,"Francisco Costa",francisco,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,899,,0
+659,Thaila,Thaila,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,909,,0
+660,"Simone Cosme",simone,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,908,,0
+685,bruno.oliveira,bruno,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,945,,0
+2432,jessica.casarino,jessica,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1024,,0
+512,"Aline Campos",aline,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,773,,0
+513,"Fernando Lima",fernando,0,0,0,2,1,0,D.O.T,0,0,0,1,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,772,,0
+519,"Karina Melo",123456,0,0,0,2,1,0,D.O.T,1,0,0,1,1,0,Intranet_ATV,Matriz,0,1,0,0,0,0,0,0,1,,0,0,,0,0,0,0,0,0,782,0,0
+520,"Cristiano Moreira",cristiano,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,783,,0
+521,"Valquiria Vaz",rodolfo30,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,1,0,0,784,,0
+595,"Aline Xavier",william,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,846,,0
+596,"Aline Lira",lira,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Mauá",0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,847,,0
+542,"Aline Felix",ali1910ne,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,800,,0
+597,Leonardo2,Leonardo,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,848,,0
+655,"Meire Paulino",Meire,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,905,,0
+661,"Vanderli Dias",vanderli,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,910,,0
+664,anthony,anthony,0,0,0,2,0,0,DOT,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,911,,0
+666,"Georgia Andrade",georgia,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,916,,0
+676,"Amanda Alves","Amanda Alves",0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,927,,0
+2566,janaina.costa,janaina,0,0,0,2,0,0,CONTROLADORIA,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1145,0,0
+689,daniela.abibi,daniela,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,949,,0
+690,andrea.albuquerque,andrea,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,950,,0
+2577,marcelo.costa,marcelo,0,0,0,0,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1156,0,0
+2579,cristiane.nascimento,cristiane,0,0,0,2,0,0,"Recursos Humanos",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1158,0,0
+2580,elidiane.santos,elidiane,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1159,0,0
+2581,joyce.santana,joyce,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1160,0,0
+2582,fernanda.silva,fernanda,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1161,0,0
+2594,ingrid.santos,ingrid,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1169,0,0
+525,"Emerson Laino",laino,1,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,0,0,1,786,0,0
+557,alexandre,alexandre,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,748,,0
+558,paulo,paulo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,819,,0
+581,tatiane,tatiane,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,841,,0
+600,Thaiza,thaiza,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,852,,0
+607,Raphael,raphael,0,0,0,1,0,0,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,851,,0
+628,"Victor Pereira",victor,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,874,,0
+675,thais.regina,thais,0,0,0,2,0,0,,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,926,,0
+2381,amanda.celeste,amanda,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,977,,0
+2503,diego.rodrigues,diego,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1083,0,0
+2567,"Erika Costa","Erika Costa",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1146,0,0
+2568,andressa.medeiros,andressa.medeiros,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1147,0,0
+2569,rosangela.arruda,rosangela,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1148,0,0
+2570,jussier.junior,jussier,0,0,0,2,0,0,CONTROLADORIA,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1149,0,0
+2372,juliete.santos,asprev10,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,968,,0
+539,"ana lucia","ana lucia",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,798,,0
+541,Grace,Grace,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,799,,0
+2376,thiago.vinicius,thiagos,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,972,,0
+621,"Caian Zambotto",caian,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,872,,0
+637,"Danilo Junior",danilo,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,887,,0
+643,Thiago.Luiz,thiago,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,891,,0
+650,"Bruna Dutra",Bruna,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,901,,0
+651,"Deyse Moreno",deyd3e3y0,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,902,,0
+652,"Braulho Narcizio",adv1234,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,903,,0
+2377,fernando.leme,fernando,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,973,,0
+2378,"maria cleunice",maria,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,974,,0
+2553,jhonatan.abreu,jhonatan,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1132,0,0
+2578,"Marcio Costa",marcio,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1157,0,0
+2584,elisabete.leite,elisabete,0,0,0,2,0,0,CONTROLADORIA,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1163,0,0
+2596,lucas.antunes,lucas,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1173,0,0
+2597,catherine.trovao,catherine,0,0,0,0,0,0,"Dejur Expedição",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1174,0,0
+2599,barbara.silva,barbara,0,0,0,0,0,0,"Dejur Expedição",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1176,0,0
+590,"Bruna Brisquiliari",Bruna,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,661,,0
+599,Rebeca,Rebeca,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,850,,0
+622,"Guilherme Flaviano","Guilherme Flaviano",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,873,,0
+627,Bruno,Bruno,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,878,,0
+631,"Luciana Alves",luciana,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,882,,0
+638,"Valquiria Lopes",valquiia,0,0,0,2,0,0,A.G.U,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,888,,0
+658,Carla.Almeida,carla,0,0,0,2,0,0,,0,0,0,0,0,0,Intranet_ATV,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,907,,0
+683,"Edmilson Teixeira","Edmilson Teixeira",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,944,,0
+2371,"bruno.peçanha",bruno,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,967,,0
+2413,daiany.martins,Padrao2017,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1007,,0
+2444,"Rosangela Reis",Rosangela,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1034,,0
+2456,carolina.santana,carolina,0,0,0,2,0,0,"Negócios",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1042,0,0
+2457,neide,neide,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1043,0,0
+2525,"Aruã","Aruã",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1106,0,0
+2526,Raquel,Raquel,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1107,0,0
+640,"lucas aguiar",lucas,0,0,0,2,0,1,Controladoria,0,0,1,0,0,0,Desativado,Matriz,0,1,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,890,,0
+2519,beatriz.rocha,beatriz,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1101,0,0
+657,"rubens santos",rubens,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,906,,0
+668,"Edmilson Sousa",edmilson,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,917,,0
+673,Angela,Angela,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,923,,0
+674,Thays,Thays,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,924,,0
+2368,Cristina,Cristina,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,884,,0
+2369,carla.moraes,Carla,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,965,,0
+2391,maria.jose,maria,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,984,,0
+2422,"Guilherme Prada",Guilherme,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1014,,0
+2435,andre.oliveira,andre,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1027,,0
+2536,"kelly bortoleto","kelly bortoleto",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1116,0,0
+2452,"rodrigo novais",rodrigo,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1039,,0
+2537,"felipe silva","felipe silva",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1117,0,0
+497,"Caroline Cristina",Ca40692989838,0,0,0,2,0,0,Dejur,0,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,762,0,0
+498,"Ligiana Souza",ezequiel,0,0,0,2,0,0,D.O.T,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,761,,0
+692,"Ana Paula",299076,0,0,0,2,1,0,"D.O.T C.I",0,0,0,1,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,952,,0
+696,Alcemir,alcemir,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,956,,0
+698,ana.paula,ana,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,958,,0
+699,kaique.guedes,kaique,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,959,,0
+2374,leandro.silva,Leandro,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,970,,0
+2379,catia.regina,catia,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,975,,0
+2426,"Rosangela Maria","Rosangela Maria",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1018,,0
+2405,sandra.aparecida,sandra,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,999,,0
+2407,camila.dias,camila,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1001,,0
+2434,heloisa,heloisa,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1026,,0
+2461,juliana.araujo,julianaaraujo,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1046,0,0
+2468,gisele.silva,gisele,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1050,0,0
+2490,vinicius.silva,vinicius,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1071,0,0
+2492,jessica.sampaio,jessica,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1073,0,0
+2493,lais.moura,lais,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Intranet_ATV,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1074,0,0
+2500,thiago.santos,"Thiago Santos",0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1081,0,0
+2502,kyara.cunha,Kyara,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1084,0,0
+2508,karen.perussi,karen,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Desativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1089,0,0
+2511,danielle.basilio,danielle,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1092,1,1
+2512,larissa.tsombanoglou,larissa,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1093,1,1
+2531,"ligia mello","ligia mello",0,0,0,2,0,0,,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1111,0,0
+2548,angelo,angelo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Cotia,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1127,0,0
+2556,lucas.carvalho,lucas,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1135,0,0
+2557,patricia.santos,patricia,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1136,0,0
+2558,priscila.bandeira,priscila,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1137,0,0
+2563,katia.daniel,katia,0,0,0,2,0,0,"DEJUR SUPORTE JURÍDICO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1142,0,0
+2565,alejandra.oliveira,alejandra,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1144,0,0
+2571,felipe.silva,felipe,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1150,0,0
+2572,kelvin.dias,kelvin,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1151,0,0
+2573,caio.silva,caio,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1152,0,0
+2574,rafael.giovanelli,rafael,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1153,0,0
+2575,joao.ramos,joao,0,0,0,2,0,0,"DEJUR ATENDIMENTO SIMULTANEO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1154,0,0
+2576,thiago.guerreiro,thiago,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1155,0,0
+2363,"Stefânia Fernandes",Stefania,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,961,,0
+2361,joseilson.fontes,joseilson,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,960,,0
+2375,emanuel.celso,emanuel,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,971,,0
+2427,patricia.silva,patricia,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1019,,0
+2428,karoline.carvalho,karoline,0,0,0,2,0,0,"Dejur Atendimento Presencial",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1020,,0
+2396,maria.celia,maria,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,990,,0
+2397,milton.cesar,milton,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,991,,0
+2398,roberto.junior,roberto,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,992,,0
+2399,claudemir.paz,claudemir,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,993,,0
+2429,jessyca.maiara,jessyca,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1021,,0
+2438,flavio.guimaraes,flavio,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1029,,0
+2448,ana.oliveira,ana,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1035,,0
+2453,hebila,hebila,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1040,,0
+2471,ronaldo.belo,ronaldo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,1,0,1,1052,0,0
+2473,rodrigo.alo,rodrigo.alo,0,0,0,2,1,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1054,0,0
+2488,michel.souza,michel,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1069,0,0
+2491,camila.costa,camila,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1072,0,0
+2494,henrique.santos,henrique,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1075,0,0
+2495,denise.andrade,denise,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1076,0,0
+2505,henrique.cruzeiro,henrique,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,1086,0,0
+2509,rodrigo.silva,rodrigo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,1090,0,0
+2510,natalia.cruz,natalia,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,1091,0,0
+2532,victor.santos,victor,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1112,0,0
+2533,taina.silva,taina,0,0,0,2,0,0,CONSULTORIA,1,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1113,0,0
+2534,karina.costa,"Karina Costa",0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1114,0,0
+2546,joao.caetano,joao,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1125,0,0
+2547,carla.santos,carla,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Ativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1126,0,0
+2559,caroline.lemos,caroline,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1138,0,0
+2560,jeniffer.araujo,jeniffer,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1139,0,0
+2561,viviane.silva,viviane,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1140,0,0
+2583,"Dilsa Silva",dilsa,0,0,0,2,0,0,S.O.L,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1162,0,0
+2419,renata.rocha,renata,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1011,,0
+2522,caique.baptista,caique,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1104,0,0
+2523,caique.macedo,Caique,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1105,0,0
+2549,laercio.alves,laercio,0,0,0,2,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1128,0,0
+2550,luciana.oliveira,luciana,0,1,1,2,1,1,DeJur,1,1,1,1,0,1,Ativado,Matriz,1,1,1,0,0,1,1,1,1,,1,1,,0,1,1,1,1,1,1129,0,0
+2588,daniele.cabral,daniele,0,0,0,0,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1164,0,0
+2598,eriseliton.mendes,eriseliton,0,0,0,0,0,0,"Dejur Expedição",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1175,0,0
+2364,marlon.lelis,marlon,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,962,,0
+2484,yasmin.macedo,yasmin,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1065,0,0
+2390,jair.cosme,jair,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,982,,0
+2402,thais.mendes,thais,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,996,,0
+2485,tatiane.spachicelli,tatiane,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1066,0,0
+2486,eduardo.brito,eduardo,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1067,0,0
+2487,jessica.pires,jessica,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Intranet_ATV,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1068,0,0
+2520,fabio.melo,fabio,0,0,0,2,0,0,CONTROLADORIA,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1102,0,0
+2521,wendel.souza,Wendel,0,0,0,2,0,0,D.S.A,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1103,0,0
+2535,felipe.almeida,felipe,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1115,0,0
+2551,amanda.araujo,amanda,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1130,0,0
+2593,ronald.poscai,ronald,0,0,0,2,0,0,"D.O.T Telefonia",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1170,0,0
+2618,andre.paiva,andre,0,0,0,0,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1178,0,0
+2620,felipe.sa,felipe,0,0,0,0,0,0,T.I,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1179,0,0
+2621,janaina.severino,janaina,0,0,0,0,0,0,DOT,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1180,0,0
+2622,midia.silva,midia,0,0,0,0,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1181,0,0
+2623,maria.silva,maria,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,"São Bernardo do Campo",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1182,0,0
+2624,elizabete.evangelista,elizabete,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1183,0,0
+2625,thayna.goncalves,thayna,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1184,0,0
+2628,karen.silva,karen,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1185,0,0
+2629,daniele.aguiar,daniele,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1186,0,0
+2630,victorya.pascoal,victorya,0,0,0,0,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1187,0,0
+2633,kennedy.cardoso,kennedy,0,0,0,0,0,0,"DEJUR SUPORTE JURÍDICO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1188,0,0
+2634,amanda.miranda,amanda,0,0,0,0,0,0,"DEJUR SUPORTE JURÍDICO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1189,0,0
+2382,bruna.pavlakis,bruna,0,0,0,2,0,0,"Dejur Autuação e Lançamento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,978,,0
+2406,moacir.costa,moacir,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1000,1,0
+2420,"amanda mendes",amanda,0,1,0,2,0,0,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1012,,0
+2470,shirley.souto,shirley.souto,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1051,0,0
+2385,samuel.rondao,samuel,0,0,0,2,0,0,"Dejur Análise",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,981,,0
+2440,"Gremio HC",Hospital,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,"Hospital Clinicas",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1031,,0
+2513,leonardo.silva,leonardo,0,0,0,2,0,0,"DEJUR SUPORTE JURÍDICO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1094,0,0
+2514,stefannie.odokara,stefannie,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1095,0,0
+2515,barbara.vidal,barbara,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1096,0,0
+2516,jhonatan.placido,jhonatan,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1098,0,0
+2517,caio.henrique,caio,0,0,0,2,0,0,"DEJUR ATENDIMENTO",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1099,0,0
+2518,barbara.ramos,barbara,0,0,0,2,0,0,"Dejur Análise",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1100,0,0
+2552,teste,teste,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1131,0,0
+2595,samuel.bretas,samuel,0,0,0,0,0,0,T.I,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1172,0,0
+2365,"Claudemir Ferreira","Claudemir Ferreira",0,0,0,2,0,0,,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,963,,0
+2409,rafael.hernandes,rafael,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1003,,0
+2423,"Bruna Carolina",padrao2017,0,0,0,2,0,0,Consultoria,0,0,0,0,1,0,Intranet_ATV,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1015,,0
+2589,erick.nogueira,erick,0,0,0,0,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1166,0,0
+2441,paula.celeste,ana,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,1,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1032,1,1
+2474,joyce.ferreira,123Mudar,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1055,0,0
+2475,andressa.cavalcante,123Mudar,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1056,0,0
+2400,andre.silva,andre,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,994,,0
+2476,giuliane.nunes,123Mudar,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Tatuapé",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1057,0,0
+2477,rabech.giovanna,123Mudar,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1058,0,0
+2478,francinete.castro,123Mudar,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1059,0,0
+2479,eduardo.roda,123Mudar,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1060,0,0
+2480,gisele.vieira,Gisele,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1061,0,0
+2483,debora.martins,debora,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Santo Amaro",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1064,0,0
+2545,tatiana.magnusson,tatiana,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Ativado,"Mauá",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1124,0,0
+2384,luana.gomes,luana,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,980,,0
+2410,sergio.cegarra,sergio,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Desativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1004,,0
+2412,leonardo.alves,Padrao2017,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1006,,0
+2414,marcelo.antonio,marcelo,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1008,,0
+2590,"andreia.d agostino",andreia,0,0,0,2,1,1,"Recursos Humanos",0,1,0,1,0,0,Ativado,Matriz,1,0,0,0,0,0,0,0,1,,0,1,,0,0,0,0,0,0,1167,0,0
+2401,marco.antonio,P@drao2017,0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,995,,0
+2421,"Sandra Regina","Sandra Regina",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Intranet_ATV,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1013,,0
+2442,matheus.santos,matheus,0,0,0,0,0,0,T.I,0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1030,,0
+2600,amanda.santos,amanda,0,0,0,0,0,0,"Dejur Expedição",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1177,0,0
+2601,rodrigo.amaral,rodrigo,0,0,0,0,0,0,DeJur,0,0,0,0,0,0,Ativado,,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1038,0,0
+2481,valeria.santos,valeria,0,0,0,2,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1062,0,0
+2482,jose.henrique,jose,1,0,0,2,1,1,"Recursos Humanos",0,1,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1063,0,0
+2506,renan.manzelli,renan,0,0,0,2,0,0,CONSULTORIA,0,0,0,0,0,0,Ativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1087,0,0
+2507,jessica.saccoman,jessica,0,0,0,2,0,0,Comercial,0,0,0,0,0,0,Ativado,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1088,0,0
+2524,bruno.bontancia,bruno,0,0,0,0,0,0,"Dejur Suporte Jurídico",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1097,0,0
+2538,felipe.buonocore,felipe,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1118,0,0
+2539,roberto.dirceu,roberto,0,1,0,2,0,1,"Recursos Humanos",0,1,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1119,0,0
+2540,anne.gabrielle,anne,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1120,0,0
+2541,joao.otavio,joao,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1121,0,0
+2542,karolliny.conceicao,karolliny,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1122,0,0
+2543,vitoria.seratti,vitoria,0,0,0,2,0,0,"DEJUR ATENDIMENTO PRESENCIAL",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1123,0,0
+2586,adriana.alves,adriana,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1165,0,0
+2392,moacir.alves,moacir,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Desativado,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,985,,0
+2393,"thiago.mendonça",thiago,0,0,0,2,0,0,Consultoria,0,0,0,0,0,0,Intranet_ATV,"Vila Endres",0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,987,,0
+2415,taina.magalhaes,padrao2017,0,0,0,2,0,0,D.C.C,0,0,0,0,0,0,Intranet_ATV,Santana,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1009,,0
+2416,nashila.santos,mudar123,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1010,,0
+2417,"Jaqueline Costa","Jaqueline Costa",0,0,0,2,0,0,Projetos,0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,979,,0
+2418,gesilyn.silva,Gesilyn,0,0,0,2,0,0,"Dejur Expedição",0,0,0,0,0,0,Desativado,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1002,,0
+2360,tayna.moura,P@drao2017,0,0,0,0,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,954,,0
+2403,bruna.sabrina,Padrao2017,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Intranet_ATV,Centro,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,997,,0
+2411,henrique.dutra,Padrao2017,0,0,0,2,0,0,"Dejur Atendimento",0,0,0,0,0,0,Desativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1005,,0
+2528,"priscila maia","priscila maia",0,0,0,2,0,0,DeJur,0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1108,0,0
+2591,rodrigo.storni,rodrigo,0,0,0,2,0,0,"D.O.T C.I",0,0,0,0,0,0,Ativado,Matriz,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,1168,0,0

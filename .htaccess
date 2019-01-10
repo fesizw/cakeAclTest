@@ -4,8 +4,16 @@
 #    RequestHeader unset Proxy
 #</IfModule>
 
+Options +FollowSymlinks
+#RewriteEngine On
+
+# FORCE SSL REDIRECTION
+#RewriteCond %{HTTPS} !on
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 <IfModule mod_rewrite.c>
-    RewriteEngine on
+    RewriteEngine On
+    
     RewriteRule    ^(\.well-known/.*)$ $1 [L]
     RewriteRule    ^$    webroot/    [L]
     RewriteRule    (.*) webroot/$1    [L]

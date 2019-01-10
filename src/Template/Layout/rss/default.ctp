@@ -1,4 +1,5 @@
 <?php
+
 if (!isset($channel)) :
     $channel = [];
 endif;
@@ -7,5 +8,5 @@ if (!isset($channel['title'])) :
 endif;
 
 echo $this->Rss->document(
-    $this->Rss->channel([], $channel, $this->fetch('content'))
+        $this->Rss->channel([], $channel, $this->fetch('content'))
 );

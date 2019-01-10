@@ -1,0 +1,277 @@
+## Template index.ctp
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Home"
+msgstr "Página Inicial"
+
+msgid "Control panel"
+msgstr "Painel de Controle"
+
+msgid "Invalid username or password, try again"
+msgstr "Dados inválido, tente novamente"
+
+msgid "You are not authorized to access that location."
+msgstr "Você não tem autorização para acessar este local."
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "name"
+msgstr "nome"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Attention"
+msgstr "Atenção"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Delete entry"
+msgstr "Apagar"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "All rights reserved."
+msgstr "Todos os direitos reservado."
+
+msgid "MAIN NAVIGATION"
+msgstr "NAVEGAÇÃO PRINCIPAL"
+
+msgid "Confirm Password"
+msgstr "Confirme Senha"
+
+msgid "Sign out"
+msgstr "Sair"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Member"
+msgstr "Membro"
+
+msgid "last"
+msgstr "último"
+
+msgid "next"
+msgstr "próximo"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "first"
+msgstr "primeira"
+
+msgid "since"
+msgstr "desde"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Companys"
+msgstr "Empresas"
+
+msgid "Invalid CNPJ"
+msgstr "CNPJ Inválido"
+
+msgid "Invalid CPF"
+msgstr "CPF Inválido"
+
+msgid "Companys List"
+msgstr "Lista de Empresas"
+
+msgid "Clients"
+msgstr "Clientes"
+
+msgid "Client"
+msgstr "Cliente"
+
+msgid "Clients List"
+msgstr "Lista de Clientes"
+
+msgid "Passwords not equal."
+msgstr "Senhas não conferem."
+
+msgid "Search"
+msgstr "Procurar"
+
+msgid "List of"
+msgstr "Lista de"
+
+msgid "Fill in to start search"
+msgstr "Digite para pesquisar"
+
+msgid "Filter"
+msgstr "Buscar"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Confirm to delete this entry?"
+msgstr "Confirme para excluir este registro."
+
+msgid "This value is already in use"
+msgstr "Este valor já está em uso, tente outro."
+
+msgid "Charts"
+msgstr "Gráficos"
+
+msgid "The item you want to change has dependencies, and will not be deleted until you remove those dependencies"
+msgstr "O item que deseja alterar possui dependências, e não será excluido até que removas essas dependências"
+
+msgid "Passwords need to be at least 6 characters long"
+msgstr "As senhas precisam ter pelo menos 6 caracteres"
+
+## Template add.ctp
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Password not equal."
+msgstr "Senhas não conferem."
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Form"
+msgstr "Formulário"
+
+msgid "Forms"
+msgstr "Formulários"
+
+msgid "Tables"
+msgstr "Tabelas"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Important"
+msgstr "Importante"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "User"
+msgstr "Usuário"
+
+
+## Template edit.ctp
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Users List"
+msgstr "Lista de Usuário"
+
+msgid "Roles List"
+msgstr "Lista de Regras"
+
+msgid "Roles"
+msgstr "Regras"
+
+msgid "Role"
+msgstr "Regra"
+
+msgid "MAIN NAVIGATION"
+msgstr "MENU DE NAVEGAÇÃO"
+
+## Template view.ctp
+
+msgid "Information"
+msgstr "Informação"
+
+
+## Controller
+
+msgid "The {0} has been saved."
+msgstr "{0} foi salvo(a)."
+
+msgid "The {0} could not be saved. Please, try again."
+msgstr "{0} não foi salvo(a). Por favor, tente novamente."
+
+msgid "The {0} has been deleted."
+msgstr "{0} foi excluído(a)."
+
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "{0} não foi excluído(a). Por favor, tente novamente."
+
+
+## Login
+
+msgid "Sign in to start your session"
+msgstr "Faça login para começar a sua sessão"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Sign in"
+msgstr "Entrar"
+
+msgid "Sign in using Facebook"
+msgstr "Faça login usando Facebook"
+
+msgid "Sign in using Google+"
+msgstr "Faça login usando Google+"
+
+msgid "I forgot my password"
+msgstr "Eu esqueci minha senha"
+
+msgid "Register a new membership"
+msgstr "Registrar como novo membro"
+
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+msgid "Sign In"
+msgstr "Logar"
+
+msgid "Username or password is incorrect"
+msgstr "Usuário ou senha está incorreto"
+
+msgid "Invalid e-mail or password, tray again"
+msgstr "E-mail ou senha inválidos, tente novamente"
+
+
+## Elements
+
+msgid "Alert"
+msgstr "Alerta"
+
+
+## Helpers
+
+msgid "Click here to change the file."
+msgstr "Clique aqui para mudar o arquivo."
+
+
